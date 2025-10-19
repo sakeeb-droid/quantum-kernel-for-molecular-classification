@@ -1,1 +1,1 @@
-# quantum-kernel-for-molecular-classification
+# Quantum Kernel-based Molecular Classificatiuon using SVM
